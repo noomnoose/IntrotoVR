@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scene/Walking in VR.unity
-    guid: b9be79fbc8fae984eb8cdc8df0da1f12
+    path: Assets/Scene/VR glasses.unity
+    guid: 9f6b3ab8785980749adf22946f45d159
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8de2bc468ba7d6a48a3e4446cb279e4e, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 9f248ea1d0de69845b44dbcae2409552, type: 2}
